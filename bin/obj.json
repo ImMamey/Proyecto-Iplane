@@ -1,0 +1,220 @@
+   {
+
+   "columnas": 2,
+   "filas":2,
+   "content":[{"x":30,"y":50,"value":1}]
+   }
+   
+   
+   
+   "Content":[{"Fila":1,"Columna":1,"Valor":0},{"Fila":1,"Columna":2,"Valor":1},{"Fila":2,"Columna":1,"Valor":1},{"Fila":2,"Columna":1,"Valor":1}]
+   
+   }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   }
+	"list" : { 
+		"meta" : { 
+			"type" : "resource-list",
+			"start" : 0,
+			"count" : 2
+		},
+		"resources" : [ 
+			{
+				"resource" : { 
+					"classname" : "Quote",
+					"fields" : { 
+						"name" : "USD/KRW",
+						"price" : "1151.295044",
+						"symbol" : "KRW=X",
+						"ts" : "1437357550",
+						"type" : "currency",
+						"utctime" : "2015-07-20T01:59:10+0000",
+						"volume" : "0"
+					}
+				}
+			}
+			,
+			{
+			"resource" : { 
+					"classname" : "Quote",
+					"fields" : { 
+						"name" : "SILVER 1 OZ 999 NY",
+						"price" : "0.067476",
+						"symbol" : "XAG=X",
+						"ts" : "1437169614",
+						"type" : "currency",
+						"utctime" : "2015-07-17T21:46:54+0000",
+						"volume" : "62"
+					}
+				}
+			}
+			,
+			{
+			"resource" : { 
+			"classname" : "Quote",
+			"fields" : { 
+			"name" : "USD/VND",
+			"price" : "21815.500000",
+			"symbol" : "VND=X",
+			"ts" : "1437357540",
+			"type" : "currency",
+			"utctime" : "2015-07-20T01:59:00+0000",
+			"volume" : "0"
+			}
+			}
+			}
+			
+		]
+	}
+}
+
+
+
+
+
+
+
+
+//=====================================================
+{
+	"Usuarios":[
+	{"nombre":"Admin","apellido":"Admin","direccion":"Admin","telefono":"Admin","correo":"Admin@admin.com","username":"admin","password":"admin"}
+	],
+	"Agencias":[
+	{"nombre":"Inversionesloli"}
+	]
+}
+//================CODIGO DEL TUTORIAL:==========
+//	"Number": 2,
+//	"String": "Hello world!",
+//	"Boolean": true,
+//	"Object":{
+//		"Object Number": 23,
+//		"Object String": "Im in the object"
+//	},
+//	"Array":[
+//		"strings in array",
+//		300,
+//		false,
+//		{
+//			"Array Object String": "Objects in Arrys do not need names"
+//		}
+//	],
+//	"Usuarios":[
+//	]
+//	
+//================MODELO================
+//"Agencias":[
+//		"Nombre":"OpenWorld C.A.",
+//		"AgenciaDir":"Los teques",
+//		"Telefono":"02123837712",
+//		"Contacto":{
+//			"Nombre":"Daniel",
+//			"Telefono":04127098876
+//			} 
+//		},
+//	Otras agencias obj van aqui
+//	   ],
+//"Vuelos":[
+//	"Vuelo Caracas-La Guaira":{
+//		"ID vuelo":12309,
+//		"ID ruta":"54321",
+//		"Fecha":"01/7/2018",
+//		"Hora":"19:30",
+//		"Capacidad":78,
+//		"Personal":[
+//			obj de trabajadores
+//			],
+//		"Reservaciones":[
+//			//obj de Usuarios
+//			],
+//		"Ruta":{
+//			"ID":2345,
+//			"Ciudad Salida":"Caracas",
+//			"Ciudad Entrada": "La Guaira"
+//			}
+//		},
+//	otros Vuelos obj van aqui],
+//"Aerolineas":[
+//	"Italca":{
+//		"RIF":12121212,
+//		 "Nombre":"Italca C.A.",
+//		 "Dir":"Los Teques, ruta 3",
+//		 "Telefono":"02127654678"
+//		},
+//	más obj de areolinas aqui
+//	],
+//"Rutas":[{
+//	    "nombre":"Caracas la Guaira"
+//		"id":2345",
+//		"Ciudad de Entrada":"La Guaira",
+//		"Ciudad de Salida":"Caracas"
+//		}
+//	
+//	],
+//"Ciudades":[
+//	"Caracas",
+//	"La Guaira",
+//	"Barinas",
+//	"Puerto Ordaz",
+//	"Madrid",
+//	"Amsterdam"
+//	],
+//"Nomina":[
+//	"Empleados":[
+//		"José Angel":{
+//			"Cedula":24464628,
+//			"Nombre":"Jose",
+//			"Apellido":"Angel",
+//			"Sexo":"M",
+//			"Telefono":"04127047750",
+//			"Correo":"lagataenlalfalfa@gmail.com",
+//			"Dir.Residencia":"La vega",
+//			"Cargo":"Piloto"
+//			},
+//		Otros empleados van aquí
+//		],
+//	"Usuarios":[
+//		"Andres Bello":{
+//			"Nombre":"Andrés",
+//			"Apellido":"Bello",
+//			"Direccion":"La Guaira",
+//			"Telefono":"08974325321",
+//			"Correo":"Avadakedabra@hotmail.com"
+//			"Password":"Lolix3456"
+//			},
+//		Otros usuarios van aqui
+//		]
+//	]
+//

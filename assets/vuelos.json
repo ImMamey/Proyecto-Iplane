@@ -1,0 +1,1 @@
+{"Vuelos":[{"Nombre":"Caracas a La Guaira","Id del vuelo":"123456","Id de la ruta":"2345","Fecha":"01/7/2018","Capacidad":"78","Personal":[/*objs de trabajadores*/],"Reservaciones":[/*obj de usuarios*/],"Ruta":{"Ciudad de Entrada":"La Guaira","id":"2345","nombre":"Caracas a La Guaira","Ciudad de Salida":"Caracas"}}]}
